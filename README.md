@@ -3,7 +3,7 @@
 ## Run app locally
 npx tsc src/app.ts --outDir dist
 
-Objective: Create a TypeScript app for an art gallery to manage a simple database of artists
+## Objective: Create a TypeScript app for an art gallery to manage a simple database of artists
 and their artworks. The app should function while the browser is open, with no need for data
 persistence after closing the browser.
 
